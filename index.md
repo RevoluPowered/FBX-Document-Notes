@@ -1,4 +1,4 @@
-# Open Source FBX Specification for the Importer
+# Godot FBX Importer notes
 
 The goal of this document is to make everything in FBX clearly stated, any errors will be corrected over time this is a first draft.
 
